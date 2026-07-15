@@ -93,36 +93,6 @@ Become an **AI Engineer** and build intelligent solutions that solve real-world 
 
 ---
 
-# 🏆 GitHub Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ezhilarasi2005&theme=algolia&row=1&column=7"/>
-
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ezhilarasi2005&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🌍 Visitor Count
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Ezhilarasi2005&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-</p>
-
----
-
 # 🤝 Connect with Me
 
 <p align="center">
