@@ -105,7 +105,10 @@
 
 # 🚀 Upcoming Projects
 
-- 🩺 AI-powered Healthcare Management System
-- 🤖 AI Chatbot using LLMs
-- 📊 Data Analytics Dashboard
-- ☁️ Cloud-based Healthcare Application
+🤖 AI Resume Analyzer & Interview Coach
+
+💼 AI Job Recommendation Platform
+
+🧠 Smart Attendance System using Face Recognition
+
+📊 AI-powered Personal Finance & Expense Tracker
