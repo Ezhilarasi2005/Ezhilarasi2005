@@ -102,3 +102,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f093fb,50:764ba2,100:667eea&height=140&section=footer"/>
 
 </div>
+
+# 🚀 Upcoming Projects
+
+- 🩺 AI-powered Healthcare Management System
+- 🤖 AI Chatbot using LLMs
+- 📊 Data Analytics Dashboard
+- ☁️ Cloud-based Healthcare Application
