@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="350">
+  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="350">
 </p>
 
 </div>
