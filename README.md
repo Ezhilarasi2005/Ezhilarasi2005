@@ -1,61 +1,40 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=35&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Ezhilarasi;AI+%7C+Machine+Learning+Enthusiast;Python+Developer;Full+Stack+Learner;Building+AI+Healthcare+Solutions" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=280&section=header&text=Hi%20👋,%20I'm%20Ezhilarasi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20|%20Machine%20Learning%20|%20Python%20Developer&descAlignY=60&descSize=18"/>
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=7F5AF0&center=true&vCenter=true&width=750&lines=AI+%26+Machine+Learning+Enthusiast;Python+Developer;Full+Stack+Learner;Building+AI-Powered+Healthcare+Solutions;Always+Learning+New+Technologies"/>
 
-<p align="center">
-  <img src="https://media.tenor.com/rePDfDWO3XoAAAAC/hacking.gif" width="350">
+<p>
+<img src="https://komarev.com/ghpvc/?username=Ezhilarasi2005&label=Profile%20Views&color=7F5AF0&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/Ezhilarasi2005?style=for-the-badge&logo=github&color=7F5AF0"/>
+<img src="https://img.shields.io/github/stars/Ezhilarasi2005?style=for-the-badge&logo=github&color=7F5AF0"/>
 </p>
 
 </div>
 
 ---
 
-# 💫 About Me
+# 👩‍💻 About Me
 
-🎓 Final Year **B.E Computer Science & Engineering** Student
+🎓 Final Year **B.E. Computer Science & Engineering**
 
-💻 Passionate about
+🤖 Passionate about **Artificial Intelligence, Machine Learning, Python Development, and Full Stack Development**
 
-* 🤖 Artificial Intelligence
-* 🧠 Machine Learning
-* 🐍 Python Development
-* 🌐 Full Stack Development
+🏥 Currently building an **AI-Powered Intelligent Healthcare Disease Prediction System**
 
-🏥 Currently Building
+🌱 Constantly learning new technologies and building real-world projects.
 
-> **AI-Powered Intelligent Healthcare Disease Prediction System**
-
-🎯 Goal
-
-Become an **AI Engineer** and build intelligent solutions that solve real-world problems.
+🎯 **Career Goal:** Become an AI Engineer and build intelligent solutions that create real-world impact.
 
 ---
 
 # 🚀 Tech Stack
 
-### Languages
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,tensorflow,sqlite,mysql,git,github,vscode,streamlit"/>
 
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge\&logo=openjdk)
-
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge\&logo=javascript)
-
----
-
-### Frameworks
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow)
-
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit)
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy)
+</div>
 
 ---
 
@@ -63,39 +42,67 @@ Become an **AI Engineer** and build intelligent solutions that solve real-world 
 
 ## 🏥 AI Healthcare Disease Prediction System
 
-✨ Features
+✔️ Secure Authentication
 
-* 🔐 Authentication
-* 🤖 AI Disease Prediction
-* 💬 AI Chatbot
-* 📅 Appointment Booking
-* 📄 PDF Medical Reports
-* 📊 Dashboard & Analytics
-* 🩺 Doctor Recommendation
+✔️ AI Disease Prediction
 
----
+✔️ AI Healthcare Chatbot
 
-# 📈 GitHub Stats
+✔️ Appointment Booking
 
-<p align="center">
+✔️ Doctor Recommendation
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ezhilarasi2005&show_icons=true&theme=tokyonight"/>
+✔️ Patient Medical History
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ezhilarasi2005&layout=compact&theme=tokyonight"/>
+✔️ PDF Medical Reports
 
-</p>
+✔️ Dashboard & Analytics
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Ezhilarasi2005&theme=tokyonight"/>
-
-</p>
+✔️ Streamlit Cloud Deployment
 
 ---
 
-# 🤝 Connect with Me
+# 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ezhilarasi2005&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ezhilarasi2005&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Ezhilarasi2005&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ezhilarasi2005&theme=algolia&row=1&column=7&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ezhilarasi2005&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🤝 Connect With Me
+
+<div align="center">
 
 <a href="https://github.com/Ezhilarasi2005">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
@@ -105,14 +112,18 @@ Become an **AI Engineer** and build intelligent solutions that solve real-world 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-### ⭐ "Code. Learn. Build. Repeat."
+### ⭐ *"Code • Learn • Build • Inspire"*
 
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" />
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f093fb,50:764ba2,100:667eea&height=140&section=footer"/>
 
 </div>
