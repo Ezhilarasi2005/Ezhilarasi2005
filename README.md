@@ -1,99 +1,146 @@
-# Hi there 👋, I'm Ezhilarasi 
+<div align="center">
 
-## 🚀 About Me
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=35&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Ezhilarasi;AI+%7C+Machine+Learning+Enthusiast;Python+Developer;Full+Stack+Learner;Building+AI+Healthcare+Solutions" />
 
-🎓 Final Year **B.E. Computer Science & Engineering** Student
-💻 Passionate about **Artificial Intelligence, Machine Learning, Python Development, and Full Stack Projects**
-🏥 Currently building an **AI-Powered Intelligent Healthcare Disease Prediction System** using TensorFlow and Streamlit.
-🌱 Continuously learning modern technologies and improving problem-solving skills.
-🎯 Goal: To become an AI Engineer and build impactful real-world applications.
+<br>
 
----
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
 
-## 🛠️ Tech Stack
-
-### 👨‍💻 Programming Languages
-
-* Python
-* Java
-* SQL
-* HTML
-* CSS
-* JavaScript
-
-### 🚀 Frameworks & Libraries
-
-* Streamlit
-* TensorFlow
-* Keras
-* Pandas
-* NumPy
-* Plotly
-
-### 🗄️ Database
-
-* SQLite
-* MySQL
-
-### 🛠️ Tools & Platforms
-
-* Git
-* GitHub
-* VS Code
-* Jupyter Notebook
+</div>
 
 ---
 
-## 🚀 Featured Project
+# 💫 About Me
 
-### 🏥 AI Healthcare Disease Prediction System
+🎓 Final Year **B.E Computer Science & Engineering** Student
 
-An intelligent healthcare application developed using **Python**, **TensorFlow**, and **Streamlit**.
+💻 Passionate about
 
-### ✨ Features
+* 🤖 Artificial Intelligence
+* 🧠 Machine Learning
+* 🐍 Python Development
+* 🌐 Full Stack Development
 
-* 🔐 Secure Login System
-* 👨‍⚕️ Patient Registration
+🏥 Currently Building
+
+> **AI-Powered Intelligent Healthcare Disease Prediction System**
+
+🎯 Goal
+
+Become an **AI Engineer** and build intelligent solutions that solve real-world problems.
+
+---
+
+# 🚀 Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge\&logo=openjdk)
+
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge\&logo=javascript)
+
+---
+
+### Frameworks
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow)
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit)
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy)
+
+---
+
+# 🚀 Featured Project
+
+## 🏥 AI Healthcare Disease Prediction System
+
+✨ Features
+
+* 🔐 Authentication
 * 🤖 AI Disease Prediction
-* 💬 AI Healthcare Chatbot
+* 💬 AI Chatbot
 * 📅 Appointment Booking
-* 📋 Medical History
-* 📄 PDF Medical Report Generation
+* 📄 PDF Medical Reports
 * 📊 Dashboard & Analytics
 * 🩺 Doctor Recommendation
-* ☁️ Streamlit Cloud Deployment
 
 ---
 
-## 🌱 Currently Learning
+# 📈 GitHub Stats
 
-* Artificial Intelligence
-* Machine Learning
-* Deep Learning
-* TensorFlow
-* Data Structures & Algorithms
-* Full Stack Development
-* Cloud Deployment
+<p align="center">
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ezhilarasi2005&show_icons=true&theme=tokyonight"/>
 
-## 📈 GitHub Goals
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ezhilarasi2005&layout=compact&theme=tokyonight"/>
 
-* 🚀 Build real-world AI applications
-* 🌟 Contribute to Open Source
-* 💡 Learn new technologies every day
-* 📚 Share projects and knowledge with the developer community
----
+</p>
 
-## 🤝 Let's Connect
-* GitHub: https://github.com/Ezhilarasi2005
-* LinkedIn: Add your LinkedIn profile
-* Email: ezhilarasianbarasan@gmail.com
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Ezhilarasi2005&theme=tokyonight"/>
+
+</p>
 
 ---
 
-### 💡 Quote
+# 🏆 GitHub Trophy
 
-> "Code with purpose. Learn continuously. Build solutions that make a difference."
+<p align="center">
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+<img src="https://github-profile-trophy.vercel.app/?username=Ezhilarasi2005&theme=algolia&row=1&column=7"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ezhilarasi2005&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🌍 Visitor Count
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Ezhilarasi2005&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🤝 Connect with Me
+
+<p align="center">
+
+<a href="https://github.com/Ezhilarasi2005">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/ezhilarasi-anbarasan-637802377">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ "Code. Learn. Build. Repeat."
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" />
+
+</div>
