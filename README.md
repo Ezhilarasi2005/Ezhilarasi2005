@@ -18,9 +18,9 @@
 
 🎓 Final Year **B.E. Computer Science & Engineering**
 
-🤖 Passionate about **Artificial Intelligence, Machine Learning, Python Development, and Full Stack Development**
+🏥 Currently building an **AI-powered Healthcare Management System**
 
-🏥 Currently building an **AI-Powered Intelligent Healthcare Disease Prediction System**
+🤖 Passionate about Artificial Intelligence, Machine Learning, Full Stack Development, and building AI-driven healthcare applications.
 
 🌱 Constantly learning new technologies and building real-world projects.
 
@@ -40,25 +40,20 @@
 
 # 🚀 Featured Project
 
-## 🏥 AI Healthcare Disease Prediction System
+## 🏥 AI-powered Healthcare Management System
 
-✔️ Secure Authentication
-
+✔️ Secure Authentication System
+✔️ Patient Registration & Management
 ✔️ AI Disease Prediction
-
 ✔️ AI Healthcare Chatbot
-
-✔️ Appointment Booking
-
 ✔️ Doctor Recommendation
-
+✔️ Appointment Scheduling
 ✔️ Patient Medical History
-
-✔️ PDF Medical Reports
-
-✔️ Dashboard & Analytics
-
+✔️ Admin Dashboard
+✔️ Reports & Analytics
+✔️ PDF Medical Report Generation
 ✔️ Streamlit Cloud Deployment
+
 
 ---
 
@@ -75,26 +70,6 @@
 <div align="center">
 
 <img width="70%" src="https://streak-stats.demolab.com?user=Ezhilarasi2005&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ezhilarasi2005&theme=algolia&row=1&column=7&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ezhilarasi2005&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
