@@ -1,13 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=280&section=header&text=Hi%20👋,%20I'm%20Ezhilarasi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20|%20Machine%20Learning%20|%20Python%20Developer&descAlignY=60&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:667eea,50:764ba2,100:f093fb&text=Hi%20👋,%20I'm%20Ezhilarasi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Machine%20Learning%20Enthusiast%20%7C%20Python%20Developer&descAlignY=60&descSize=18"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=7F5AF0&center=true&vCenter=true&width=750&lines=AI+%26+Machine+Learning+Enthusiast;Python+Developer;Full+Stack+Learner;Building+AI-Powered+Healthcare+Solutions;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=7F5AF0&center=true&vCenter=true&width=850&lines=AI+Engineer+in+Progress;Machine+Learning+Enthusiast;Python+Developer;Full+Stack+Learner;Building+Real-World+AI+Applications;Always+Learning+New+Technologies"/>
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=Ezhilarasi2005&label=Profile%20Views&color=7F5AF0&style=for-the-badge"/>
+
+<img src="https://komarev.com/ghpvc/?username=Ezhilarasi2005&label=Profile+Views&style=for-the-badge&color=7F5AF0"/>
+
 <img src="https://img.shields.io/github/followers/Ezhilarasi2005?style=for-the-badge&logo=github&color=7F5AF0"/>
+
 <img src="https://img.shields.io/github/stars/Ezhilarasi2005?style=for-the-badge&logo=github&color=7F5AF0"/>
+
 </p>
 
 </div>
@@ -18,23 +22,53 @@
 
 🎓 Final Year **B.E. Computer Science & Engineering**
 
-🏥 Currently building an **AI-powered Healthcare Management System**
+🤖 Passionate about **Artificial Intelligence, Machine Learning, Python Development, and Full Stack Engineering.**
 
-🤖 Passionate about Artificial Intelligence, Machine Learning, Full Stack Development, and building AI-driven healthcare applications.
+🏥 Currently building an **AI-powered Healthcare Management System** focused on intelligent patient care, disease prediction, and healthcare automation.
 
-🌱 Constantly learning new technologies and building real-world projects.
+🚀 I enjoy developing AI-powered applications that solve real-world problems using modern technologies.
 
-🎯 **Career Goal:** Become an AI Engineer and build intelligent solutions that create real-world impact.
+🎯 **Career Goal**
+
+Become an **AI Engineer** and contribute to innovative software products that make a real-world impact.
 
 ---
 
-# 🚀 Tech Stack
+# 💻 Tech Stack
 
-<div align="center">
+### 👨‍💻 Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,tensorflow,sqlite,mysql,git,github,vscode,streamlit"/>
+<p>
 
-</div>
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql"/>
+
+</p>
+
+### 🤖 AI / Machine Learning
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=tensorflow"/>
+
+</p>
+
+- TensorFlow
+- Pandas
+- NumPy
+- Machine Learning
+
+### ⚙️ Frameworks & Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=streamlit,git,github,vscode"/>
+
+</p>
+
+### 🗄️ Database
+
+- SQLite
+- MySQL
 
 ---
 
@@ -42,18 +76,42 @@
 
 ## 🏥 AI-powered Healthcare Management System
 
-✔️ Secure Authentication System
-✔️ Patient Registration & Management
-✔️ AI Disease Prediction
-✔️ AI Healthcare Chatbot
-✔️ Doctor Recommendation
-✔️ Appointment Scheduling
-✔️ Patient Medical History
-✔️ Admin Dashboard
-✔️ Reports & Analytics
-✔️ PDF Medical Report Generation
-✔️ Streamlit Cloud Deployment
+A comprehensive AI-driven healthcare platform that improves patient management and hospital workflows through intelligent automation.
 
+### ✨ Features
+
+- 🔐 Secure Authentication
+- 👨‍⚕️ Patient Registration & Management
+- 🤖 AI Disease Prediction
+- 💬 AI Healthcare Chatbot
+- 🩺 Doctor Recommendation
+- 📅 Appointment Scheduling
+- 📋 Patient Medical History
+- 📊 Admin Dashboard
+- 📈 Reports & Analytics
+- 📄 PDF Medical Report Generation
+- ☁️ Streamlit Cloud Deployment
+
+---
+
+# 🚀 Upcoming Projects
+
+- 🤖 AI Resume Analyzer & Interview Coach
+- 💬 AI Document Chatbot (RAG + LLM)
+- 💼 AI Job Recommendation Platform
+- 📊 AI-powered Personal Finance & Expense Tracker
+
+---
+
+# 🌱 Currently Learning
+
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Generative AI
+- Large Language Models (LLMs)
+- Full Stack Development
+- Cloud Computing
 
 ---
 
@@ -67,9 +125,31 @@
 
 </div>
 
+<br>
+
 <div align="center">
 
 <img width="70%" src="https://streak-stats.demolab.com?user=Ezhilarasi2005&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ezhilarasi2005&theme=algolia&row=1&column=7"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ezhilarasi2005&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -91,24 +171,18 @@
 
 ---
 
+# 💡 Quote
+
 <div align="center">
 
-### ⭐ *"Code • Learn • Build • Inspire"*
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f093fb,50:764ba2,100:667eea&height=140&section=footer"/>
+### "Building intelligent software that solves real-world problems through AI and innovation."
 
 </div>
 
-# 🚀 Upcoming Projects
+---
 
-🤖 AI Resume Analyzer & Interview Coach
+<div align="center">
 
-💼 AI Job Recommendation Platform
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:f093fb,50:764ba2,100:667eea"/>
 
-🧠 Smart Attendance System using Face Recognition
-
-📊 AI-powered Personal Finance & Expense Tracker
+</div>
