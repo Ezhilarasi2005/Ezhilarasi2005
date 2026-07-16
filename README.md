@@ -135,26 +135,6 @@ A comprehensive AI-driven healthcare platform that improves patient management a
 
 ---
 
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ezhilarasi2005&theme=algolia&row=1&column=7"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ezhilarasi2005&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
 # 🤝 Connect With Me
 
 <div align="center">
