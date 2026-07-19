@@ -1,168 +1,107 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:667eea,50:764ba2,100:f093fb&text=Hi%20👋,%20I'm%20Ezhilarasi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Machine%20Learning%20Enthusiast%20%7C%20Python%20Developer&descAlignY=60&descSize=18"/>
+# 👋 Hi, I'm Ezhilarasi
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=7F5AF0&center=true&vCenter=true&width=850&lines=AI+Engineer+in+Progress;Machine+Learning+Enthusiast;Python+Developer;Full+Stack+Learner;Building+Real-World+AI+Applications;Always+Learning+New+Technologies"/>
+### 🤖 AI Engineer in Progress • Python Developer • Machine Learning Enthusiast
 
-<p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&color=8A2BE2&lines=Building+Real-World+AI+Applications;Healthcare+AI+Developer;Python+%7C+TensorFlow+%7C+Streamlit;Always+Learning+Something+New+🚀"/>
 
-<img src="https://komarev.com/ghpvc/?username=Ezhilarasi2005&label=Profile+Views&style=for-the-badge&color=7F5AF0"/>
+<br>
 
-<img src="https://img.shields.io/github/followers/Ezhilarasi2005?style=for-the-badge&logo=github&color=7F5AF0"/>
-
-<img src="https://img.shields.io/github/stars/Ezhilarasi2005?style=for-the-badge&logo=github&color=7F5AF0"/>
-
-</p>
+<img src="https://img.shields.io/github/followers/Ezhilarasi2005?style=for-the-badge&logo=github"/>
+<img src="https://komarev.com/ghpvc/?username=Ezhilarasi2005&style=for-the-badge&color=blueviolet"/>
 
 </div>
 
 ---
 
-# 👩‍💻 About Me
+## 👩‍💻 About Me
 
 🎓 Final Year **B.E. Computer Science & Engineering**
 
-🤖 Passionate about **Artificial Intelligence, Machine Learning, Python Development, and Full Stack Engineering.**
+💡 Passionate about **Artificial Intelligence, Machine Learning, and Full Stack Development**
 
-🏥 Currently building an **AI-powered Healthcare Management System** focused on intelligent patient care, disease prediction, and healthcare automation.
+🏥 Currently building an **AI-powered Healthcare Management System**
 
-🚀 I enjoy developing AI-powered applications that solve real-world problems using modern technologies.
-
-🎯 **Career Goal**
-
-Become an **AI Engineer** and contribute to innovative software products that make a real-world impact.
+🎯 **Goal:** Build AI solutions that solve real-world problems.
 
 ---
 
-# 💻 Tech Stack
+## 🛠️ Tech Stack
 
-### 👨‍💻 Languages
+<p align="center">
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql"/>
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,tensorflow,streamlit,mysql,sqlite,git,github,vscode"/>
 
 </p>
-
-### 🤖 AI / Machine Learning
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=tensorflow"/>
-
-</p>
-
-- TensorFlow
-- Pandas
-- NumPy
-- Machine Learning
-
-### ⚙️ Frameworks & Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=streamlit,git,github,vscode"/>
-
-</p>
-
-### 🗄️ Database
-
-- SQLite
-- MySQL
 
 ---
 
-# 🚀 Featured Project
+## 🚀 Featured Project
 
-## 🏥 AI-powered Healthcare Management System
+### 🏥 AI-powered Healthcare Management System
 
-A comprehensive AI-driven healthcare platform that improves patient management and hospital workflows through intelligent automation.
+✨ AI-driven platform for intelligent healthcare management.
 
-### ✨ Features
+**Key Features**
 
-- 🔐 Secure Authentication
-- 👨‍⚕️ Patient Registration & Management
+- 🔐 Authentication
 - 🤖 AI Disease Prediction
 - 💬 AI Healthcare Chatbot
 - 🩺 Doctor Recommendation
 - 📅 Appointment Scheduling
-- 📋 Patient Medical History
 - 📊 Admin Dashboard
-- 📈 Reports & Analytics
-- 📄 PDF Medical Report Generation
-- ☁️ Streamlit Cloud Deployment
+- 📄 PDF Medical Reports
 
 ---
 
-# 🚀 Upcoming Projects
+## 📌 Upcoming Projects
 
 - 🤖 AI Resume Analyzer & Interview Coach
 - 💬 AI Document Chatbot (RAG + LLM)
+- 📊 AI-powered Personal Finance Tracker
 - 💼 AI Job Recommendation Platform
-- 📊 AI-powered Personal Finance & Expense Tracker
 
 ---
 
-# 🌱 Currently Learning
+## 📈 GitHub Stats
 
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Generative AI
-- Large Language Models (LLMs)
-- Full Stack Development
-- Cloud Computing
+<p align="center">
 
----
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ezhilarasi2005&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-# 📊 GitHub Analytics
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ezhilarasi2005&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<div align="center">
+</p>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ezhilarasi2005&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ezhilarasi2005&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
+<p align="center">
 
 <img width="70%" src="https://streak-stats.demolab.com?user=Ezhilarasi2005&theme=tokyonight&hide_border=true"/>
 
-</div>
+</p>
 
 ---
 
-# 🤝 Connect With Me
+## 🤝 Connect
 
-<div align="center">
+<p align="center">
 
 <a href="https://github.com/Ezhilarasi2005">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
 <a href="https://linkedin.com/in/ezhilarasi-anbarasan-637802377">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-</div>
-
----
-
-# 💡 Quote
-
-<div align="center">
-
-### "Building intelligent software that solves real-world problems through AI and innovation."
-
-</div>
+</p>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:f093fb,50:764ba2,100:667eea"/>
+### 💜 *"Turning Ideas into Intelligent Solutions with AI."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7F5AF0,100:4F46E5"/>
 
 </div>
